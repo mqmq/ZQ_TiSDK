@@ -1,0 +1,22 @@
+{
+  "name": "ZQ_TiSDK",
+  "version": "0.1.0",
+  "summary": "A short description of ZQ_TiSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/541833048@qq.com/ZQ_TiSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "541833048@qq.com": "z541833048@163.com"
+  },
+  "source": {
+    "git": "https://github.com/541833048@qq.com/ZQ_TiSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZQ_TiSDK/Classes/**/*"
+}

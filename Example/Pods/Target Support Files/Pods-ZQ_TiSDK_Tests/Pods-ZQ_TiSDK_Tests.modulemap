@@ -1,0 +1,6 @@
+framework module Pods_ZQ_TiSDK_Tests {
+  umbrella header "Pods-ZQ_TiSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

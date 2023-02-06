@@ -1,0 +1,6 @@
+framework module ZQ_TiSDK {
+  umbrella header "ZQ_TiSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

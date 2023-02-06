@@ -1,0 +1,6 @@
+framework module Pods_ZQ_TiSDK_Example {
+  umbrella header "Pods-ZQ_TiSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
